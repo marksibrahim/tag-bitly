@@ -51,7 +51,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>using terms from application "Finder"	display dialog "tag? " default answer "" with icon note	set mtag to text returned of result		set voila to do shell script "python ~/Desktop/tag bitly/tag_bitly.py " &amp; mtag		#try making links copyable	try		set slinks to text (paragraph -2) thru -1 of voila		set svoila to text (paragraph -3) thru 1 of voila	on error		set svoila to text of voila		set slinks to text of voila	end try		#show result	display dialog svoila default answer slinks with title "voila voila Carrie"end using terms from</string>
+					<string>using terms from application "Finder"	display dialog "tag? " default answer "" with icon note	set mtag to text returned of result		set voila to do shell script "python ~/Desktop/tag bitly/tag_bitly.py " &amp; mtag		#try making links copyable	try		set slinks to text (paragraph -2) thru -1 of voila		set svoila to text (paragraph -3) thru 1 of voila	on error		set svoila to text of voila		set slinks to text of voila	end try		#show result	display dialog svoila default answer slinks with title "voila"end using terms from</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>

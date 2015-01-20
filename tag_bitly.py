@@ -210,6 +210,7 @@ if __name__ == "__main__":
     #return shortened if possible, else returns full urls 
     voila(fb, tw)
 
+#below is the applscript used in the workflow
 """
 applescript
     assign to shift + command + c 
