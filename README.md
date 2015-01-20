@@ -1,12 +1,27 @@
 # tag-bitly
 
-TODO: prompts user for tag and automatically shortens link.
+mac workflow to tag and automatically shorten a url.
 
 ## Installation
 
-TODO: Describe the installation process
+1. Clone directory to desktop
+2. Double click workflow file to install
+3. Assign workflow keyboard shortcut (e.g., command-shift-c)
+
+Set-up: 
+add bitly access token to code
+    a. #ADD ACCESS TOKEN
+
+Optional: 
+to customize url embed, alter string in "add_embed" function
 
 ## Usage
 
-TODO: Write usage instructions
+1. Copy link 
+2. Run workflow (press shortcut keys)
+3. Add tag
+
+Returns a facebook and twitter tagged urls.
+
+
 
