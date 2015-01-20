@@ -1,6 +1,6 @@
 # tag-bitly
 
-TODO: Write a project description
+TODO: prompts user for tag and automatically shortens link.
 
 ## Installation
 
