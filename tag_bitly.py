@@ -229,7 +229,7 @@ using terms from application "Finder"
 	end try
 	
 	#show result
-	display dialog svoila default answer slinks with title "voila voila Carrie"
+	display dialog svoila default answer slinks with title "voila"
 end using terms from
 """
 
