@@ -10,7 +10,7 @@ mac workflow to tag and automatically shorten a url.
 
 Set-up: 
 add bitly access token to code
-    a. #ADD ACCESS TOKEN
+    after #ADD ACCESS TOKEN
 
 Optional: 
 to customize url embed, alter string in "add_embed" function
@@ -21,7 +21,7 @@ to customize url embed, alter string in "add_embed" function
 2. Run workflow (press shortcut keys)
 3. Add tag
 
-Returns a facebook and twitter tagged urls.
+Returns a facebook and twitter tagged, shortened url.
 
 
 
